@@ -1,5 +1,5 @@
-👋 Hi, I’m Dariusz Birk
-👀 I’m interested in:
+- 👋 Hi, I’m Dariusz Birk
+- 👀 I’m interested in:
 * Software development: Python, SQL, HTML/CSS, JavaScript, PHP.
 * Artificial intelligence, machine learning, data science.
 * IT project management based on Agile Scrum/Kanban.
