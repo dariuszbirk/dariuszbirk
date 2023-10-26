@@ -1,12 +1,14 @@
 👋 Hi, I’m Dariusz Birk
 
 👀 I’m interested in:
-- Software development: Python, SQL, HTML/CSS, JavaScript, PHP.
+- Software development using: Python, HTML/CSS, JavaScript, PHP, SQL.
 - Artificial intelligence, machine learning, data science.
 - IT project management based on Agile Scrum/Kanban.
 
-Repositories here will be created from scratch.<br>
-Previous account: https://github.com/DB-Byd.
+Public repositories will soon be created here from scratch.<br>
+My previous working account: https://github.com/DB-Byd
+
+LinkedIn: https://www.linkedin.com/in/dariuszbirk/
 
 <!---
 dariuszbirk/dariuszbirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
